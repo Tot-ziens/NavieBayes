@@ -1,5 +1,6 @@
 # NavieBayes
 implement of NavieBayes classifier for watermelon classification
+
 周志华西瓜书第151页的代码实现。
 
 参考链接：
